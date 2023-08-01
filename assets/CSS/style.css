@@ -1,0 +1,28 @@
+h1{
+    color: darkgreen;
+    text-align: center;
+    font-family: "DejaVu Sans";
+    font-style: italic;
+}
+ol{
+    color: coral;
+    text-align: center;
+    font-family: "DejaVu Sans Mono";
+    font-size: 20px;
+    list-style-position: inside;
+
+}
+h2{
+    color: darkcyan;
+    text-align: center;
+    font-family: "DejaVu Sans";
+    font-style: italic;
+
+}
+ul{
+    color: blueviolet;
+    text-align: center;
+    font-family: "DejaVu Sans Mono";
+    font-size: 20px;
+    list-style-position: inside;
+}

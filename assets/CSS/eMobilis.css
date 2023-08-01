@@ -1,0 +1,23 @@
+ul{
+    margin: 1px;
+    padding: 1px;
+    list-style-type:none;
+    overflow: hidden;
+    background-color: darkturquoise;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 5px;
+    color: darkgreen;
+    font-family: FreeMono;
+    font-size: 15px;
+    text-decoration: none;
+    display: compact;
+
+}
+li a:hover{
+    background-color: darkcyan;
+    text-emphasis-color: white;
+}
